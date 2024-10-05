@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Just_a_balak
 - 👀 I’m interested in open source project
-- 🌱 I’m currently learning build rom
+- 🌱 I’m currently learning building rom
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tg/insta: @just_a_balak
 - 😄 Pronouns: male
