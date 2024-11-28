@@ -1,3 +1,5 @@
-just a newbi learning about Android 🤧
+just a newbi 
+
+learning about Android 🤧
 
 
